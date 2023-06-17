@@ -1,0 +1,6 @@
+16:16:explorer.exe .:1
+16:17:explorer.exe:1
+16:20:explorer.exe:1
+0:44:explorer.exe:1
+1:01:ls:1
+0:59:ls -l:1
